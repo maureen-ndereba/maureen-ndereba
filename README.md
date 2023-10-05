@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maureen-ndereba&label=Profile%20views&color=0e75b6&style=flat" alt="maureen-ndereba" /> </p>
 
-- 🔭 I’m currently working on **Book_D**
+- 🔭 I’m interested in Software Engineering 
 
-- 🌱 I’m currently learning **Javascript**
-
+- 🌱 I’m learning **Javascript**, **Ruby** and **Ruby on Rails**
 - 📫 How to reach me **monderebamo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
