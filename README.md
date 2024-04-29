@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, my name's Mo</h1>
-<h3 align="center">I'm a passionate Software Engineering student from Kenya</h3>
+<h3 align="center">I'm a passionate Software Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maureen-ndereba&label=Profile%20views&color=0e75b6&style=flat" alt="maureen-ndereba" /> </p>
 
-- 🔭 I’m interested in Software Engineering 
+- 🔭 
 
-- 🌱 I’m learning **Javascript**, **Ruby** and **Ruby on Rails**
+- 🌱 I’m good at **Javascript**, **Ruby** and **Ruby on Rails**
 - 📫 How to reach me **monderebamo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
